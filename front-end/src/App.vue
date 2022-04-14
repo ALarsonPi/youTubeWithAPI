@@ -31,8 +31,7 @@
     <router-view />
   </div>
   <div class="footer">
-    <!--GITHUB CODE-->
-    <a href="#">GitHub Code</a>
+    <a href="https://github.com/ALarsonPi/youTubeWithAPI">GitHub Code</a>
   </div>
 </div>
 </template>
